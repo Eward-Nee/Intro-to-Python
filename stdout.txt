@@ -1,0 +1,15 @@
+heLLo
+hELlo
+What is your name?
+Hello Piet.
+2.2641509433962264
+How old are you Piet?
+Well, thats good news. Now I know that Piet is 21 years old.
+You are an adult
+the first number:
+the second number:
+
+54+32=86
+
+BYE PIET
+You are not eligible for a student discount
